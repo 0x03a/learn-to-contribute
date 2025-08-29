@@ -1,4 +1,8 @@
+conflict-branch4
 # Conflict Branch 4\n\nThis is from branch 1.\n\n# learn-to-contribute
+======= conflict-Resolved
+# Conflict Branch 3\n\nThis is from branch 1.\n\n# learn-to-contribute
+
 
 A repository created to help you simulate different code contribution scenarios
 

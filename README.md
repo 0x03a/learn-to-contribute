@@ -1,4 +1,4 @@
-# learn-to-contribute
+# Conflict Branch 2\n\nThis is from branch 2.\n\n# learn-to-contribute
 
 A repository created to help you simulate different code contribution scenarios
 
